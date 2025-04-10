@@ -1,4 +1,4 @@
-Tableau Public Dashbaord: https://public.tableau.com/app/profile/radhika.joshi2505/viz/METRO_StrategyIntern_RadhikaJoshi/Dashboard
+Tableau Public Dashbaord: https://public.tableau.com/app/profile/radhika.joshi2505/viz/METRO_Operating_Expenses_Trends_Radhika_Joshi/Dashboard
 This dataset analyzes Houston Metro's operating expenses (OPEX) from 2017 to 2023, emphasizing significant shifts caused by the COVID-19 pandemic. 
 As illustrated by the stacked bar chart in the dashboard, pre-pandemic expenses remained relatively stable; however, COVID-19 disruptions triggered increased spending due to diminished fare revenue, heightened operational complexities, and strategic investments in restoring services. 
 Internally, expenditure categories experienced meaningful shifts: fringe benefits decreased in relative proportion, while Service expenses notably increased, reflecting strategic organizational adjustments, as highlighted by the trend lines showing the percentage ratios of expense categories over time. 
