@@ -1,5 +1,7 @@
 Tableau Public Dashbaord: https://public.tableau.com/app/profile/radhika.joshi2505/viz/METRO_Operating_Expenses_Trends_Radhika_Joshi/Dashboard
 
+<img width="807" alt="image" src="https://github.com/user-attachments/assets/19f79e56-43ad-4d51-b1ce-8c5ead4db09d" />
+
 Problem Statement: This dataset analyzes Houston Metro's operating expenses (OPEX) from 2017 to 2023, emphasizing significant shifts caused by the COVID-19 pandemic. 
 
 Data Source: National Transit Database (NTD) Data --> 2023 Annual Database Operating Expenses
