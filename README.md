@@ -13,7 +13,12 @@ National Transit Database (NTD) Data --> 2017-2023 Annual Database Operating Exp
 The analysis of Operating Expenses for METRO Houston focussed mainly on following variables: Type of Service, Mode of Transportation, Operating Expense Type, and Operating Expenses (ADA Related Expenses,Casualty and Liability Costs, Fringe Benefits, Fuel and lubricants, Operators' Paid Absences, Operators' salaries and wages,  Other salaries and wages,  Total Operating Expenses, Total Operating Expenses (No Funds Reported Separately))
 
 ## Analysis Steps:
-<li></li>
+<li>Data was downloaded from National Transit Database for annual operating expenses from years 2017-2023. </li>
+<li>The files were joined in Tableau by creating relationships between the tables so that Tableau can dynamically adjust the join type based on the context of the analysis. </li>
+<li>Calculated fields were created for OpEx ratios based on expense categories (Fringe benefits, fuel, liabilities, salaries, etc.). </li>
+<li>Data was filtered out for METRO Houston as the agency name. </li>
+<li>Individual visualizations were created for analysing basic trend of operating expenses by year, by expense categories, by type of service and mode.</li>
+<li>A final dashboard was built as described below and published to Tableau Public. </li>
 
 ## Dashboard Outputs: 
 Dashboard built included inter-related visualizations of Expense Category Ratios as a % of Total OpEx, Annual Breakdown of Total Operating Expenses by Category, Total Annual Operating Expenses by Type of Service & Mode. There are interactive filters on the dashboard for selective visualization:
